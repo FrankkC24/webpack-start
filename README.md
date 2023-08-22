@@ -1,18 +1,17 @@
-
 # Webpack Start
 
-Proyecto inicial para crear aplicaciones utilizando webpack.
+Initial project for creating applications using webpack.
 
-### Notas:
-- Reconstruir módulos de Node:
+### Notes:
+- Rebuild Node modules:
 ```
 npm install
 ```
-- Reconstruir build de producción:
+- Rebuild production build:
 ```
 npm run build
 ```
-- Reconstruir build de desarrollo:
+- Rebuild development build:
 ```
 npm run build:dev
 ```
